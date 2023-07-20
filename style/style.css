@@ -147,9 +147,9 @@ a.btn {
     .feature-img {
         width: 270px;
         position: absolute;
-        bottom: 2%;
-        right: -7%;
-        height: 450px;
+        bottom: 40%;
+        right: -8%;
+        height: 440px;
     }
     .container {
         width: 420px;
@@ -157,25 +157,25 @@ a.btn {
     }
     .content {
         margin-top: 2%;
-        max-width: 300px;
+        max-width: 250px;
     }
     .content .btn {
         padding: 7px 20px;
-        font-size: 16px;
+        font-size: 20px;
         animation-delay: 1s;
     }
     .content h1 {
-        font-size: 25px;
+        font-size: 35px;
         color: #222;
         animation-delay: 0.2s;
-        margin: 20px 0;
-        line-height: 40px;
+        margin: 30px 0;
+        line-height: 50px;
     }
     .content p {
-       
         color: #333;
         animation-delay: 0.5s;
-        margin: 40px 0;
+        margin: 30px 0;
         padding-right: 40px;
+        line-height: 25px;
     }
 }
